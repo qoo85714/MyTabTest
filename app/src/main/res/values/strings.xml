@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTabTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="titleA">F1 Title</string>
+    <string name="titleB">F2 Title</string>
+</resources>
